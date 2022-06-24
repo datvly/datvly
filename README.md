@@ -8,22 +8,11 @@
 
 # Graphs
 
-<div style="width: 100%">
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=daminals&langs_count=8&hide=html&layout=compact)
-</div>
 
 <!--START_SECTION:waka-->
 
-```text
-From: 16 June 2022 - To: 23 June 2022
 
-JavaScript   7 hrs 52 mins   ██████████████████▓░░░░░░   75.21 %
-JSON         1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-Python       50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-```
 
 <!--END_SECTION:waka-->
 
