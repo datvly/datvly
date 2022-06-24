@@ -6,10 +6,6 @@
 - ⌨️ I love tiny keyboards like a Corne or a Planck
 - 👨‍🍳 in my free time I am a personal chef! 
 
-# Graphs
-
-
-
 <!--START_SECTION:waka-->
 
 
