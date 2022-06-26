@@ -6,8 +6,6 @@
 - ⌨️ I love tiny keyboards like a Corne or a Planck
 - 👨‍🍳 in my free time I am a personal chef! 
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datvly&langs_count=8&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=datvly&langs_count=8&hide=html&layout=compact)
-</div>
 
 <!--START_SECTION:waka-->
 
