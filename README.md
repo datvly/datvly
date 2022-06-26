@@ -6,9 +6,20 @@
 - ⌨️ I love tiny keyboards like a Corne or a Planck
 - 👨‍🍳 in my free time I am a personal chef! 
 
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datvly&langs_count=8&hide=html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=datvly&langs_count=8&hide=html&layout=compact)
+</div>
+
 <!--START_SECTION:waka-->
 
+```text
+From: 18 June 2022 - To: 25 June 2022
 
+JavaScript   9 hrs 59 mins   ███████████████████░░░░░░   75.37 %
+JSON         2 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
+Python       50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+```
 
 <!--END_SECTION:waka-->
 
